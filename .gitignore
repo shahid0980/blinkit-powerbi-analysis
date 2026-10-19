@@ -1,0 +1,11 @@
+# Power BI
+*.pbix.bak
+*.pbit.tmp
+.pbi/
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
